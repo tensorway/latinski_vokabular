@@ -1,0 +1,154 @@
+amicitia,-ae,f. - prijateljstvo 
+ara,-ae,f. - žrtvenik, oltar 
+cura,-ae,f.- briga, njega 
+femina, -ae,f. - žena 
+forma,-ae,f. - oblik 
+iniuria,-ae,f. - nepravda 
+mensa,-ae,f. - stol 
+patientia,-ae,f. - strpljivost 
+statua,-ae,f. - kip 
+superbia,-ae,f. - oholost, ponos 
+agricola,-ae,m. - ratar 
+epulae,-arum,f. - gozba 
+locus, -i,m. - mjesto 
+annus,-i,m. - godina 
+ludus,-i,m. - igra 
+animus,-i,m. - duša
+legatus,-i,m. - poslanik
+vicinus,-i,m - susjed
+liberi,-orum,m. - djeca 
+exemplum,-i,n.- primjer
+futurum,-i,n. - budućnost 
+aedificium.-i,n. - građevina 
+silentium,-i,n.­ - tišina 
+forum,-i,n. - trg 
+aurum,-i,n. - zlato 
+sacrificium,-i,n. - žrtva 
+conubium,-i,n. - ženidba, brak 
+vinum,-i,n. - vino
+oraculum,-i,n - proročište, proročanstvo 
+pastOR,-ORIS,m. - pastir             
+conditor,-oris,m. - osnivač 
+scriptor,-oris,m.-  pisac 
+victor,-oris,m. - pobjednik 
+labor,-oris,m. - rad, napor 
+dolor,-oris,m. - bol
+frater, -tris,m. - brat
+honor,-oris,m. - čast 
+amor,-oris,m. - ljubav 
+timor, -oris,m. - strah 
+pavor,-oris,m. - strah 
+artifex,-icis,m. - umjetnik, majstor 
+dux, ducis,m. - vođa 
+homo,-minis,m. - čovjek
+miles,-itis,m. - vojnik     
+mos, moris,m. - običaj 
+parens,-ntis,m.i f. - roditelj 
+pater,-tris,m.- otac 
+praedo,-onis,m. - razbojnik, pljačkaš 
+rex, regis,m. ­- kralj
+virGO,-GINIS,f.- djevojka, djevica 
+imago,-ginis,f.- slika 
+origo,-ginis,f. - porijeklo, izvor
+potestAS,-ATIS,f. - vlast, moć
+libertas,-atis,f. - sloboda 
+pietas,-atis,f. - pobožnost 
+societas,-atis,f. - savez,društvo
+civitas,-atis,f. - država, grad 
+virtUS,-UTIS,f. - vrlina, hrabrost
+servitus,-utis,f. - ropstvo 
+multituDO,-DINIS,f. - mnoštvo
+fortitudo,-dinis,f. - hrabrost 
+cupido,-dinis,f. - želja
+seditIO,-ONIS,f. - nesloga, svađa 
+ultio,-onis,f. - osveta 
+cantio,-onis,f.  - pjesma 
+lex, legis,f. - zakon 
+mater,-tris,f. - majka 
+mulier,eris,f.  - žena 
+pax, pacis,f. - mir 
+soror,-oris,f. - sestra 
+sors, sortis,f. - sudbina
+uxor,-oris, f. - žena 
+civis,is,m. - građanin 
+hostis,is,m. - neprijatelj 
+finis,is,m. - granica, kraj 
+mensis,is,m. - mjesec 
+iuvenis,is,m.  - mladić 
+vates,is,m.i f. - prorok 
+collis, is,m. - brežuljak
+navis,is,f. - lađa, brod 
+caedes,is,f. - pokolj, ubojstvo 
+urbs,urbis,f. - grad  
+ars, artis,f. - umjetnost, umijeće
+pars, partis,f. - dio, strana 
+dens, dentis,m. - zub 
+mons, montis,m. - planina 
+crimen,-minis,n.- zločin 
+nomen,-minis,n. - ime
+carmen,-minis,n. - pjesma
+tempus,-oris,n. - vrijeme 
+genus,-eris,n. - vrsta, rod 
+vulnus,-eris,n. - rana 
+foedus,-eris,n. - savez
+opus,-eris,n. - djelo, rad 
+caput,-itis,n. - glava 
+ius, iuris,n. - pravo 
+corpus,-oris,n. - tijelo 
+
+animal,-alis,n. - životinja 
+mare,is,n.  - more 
+exemplar,-aris,n. - primjer 
+
+oro,1. - moliti 
+domo,1. - nadvladavati, krotiti
+supero,1. - nadvladavati 
+libero,1. - osloboditi 
+rogo,1. - pitati 
+tolero,1. - podnositi 
+fabrico,1.- raditi, praviti, graditi 
+bello,1. - ratovati 
+sollicito,1. - uzdrmati, uznemiriti 
+veto,1. ­- zabraniti 
+
+ardeo,2. - gorjeti 
+moveo,2.- micati, potresti 
+debeo,2. - morati 
+respondeo,2. - odgovoriti 
+doceo,2. - poučavati 
+deleo,2. - razoriti 
+
+defendo,3. - braniti 
+divido,3.- dijeliti 
+eligo,3. - izabrati 
+incolo,3. - naseljavati, nastavati 
+repello,3. - odbiti
+scribo,3. - pisati
+bibo,3. - piti 
+praedico,3. - proricati
+extendo,3. - širiti 
+protego,3. - štititi
+colo,3. - štovati, poštivati 
+peto,3. - tražiti, zahtijevati 
+verto,3. - upraviti, okretati 
+gero,3. - voditi (rat)
+claudo,3. - zatvoriti 
+vivo,3. - živjeti
+
+munio,4. - utvrditi 
+
+impius,3 - bezbožan 
+iratus,3 - bijesan, srdit 
+peritus,3 - iskusan 
+maritimus,3  - morski 
+pius,3 - pobožan
+iustus,3 - pravedan, pošten 
+bellicosus,3 - ratoboran 
+varius,3 - različit 
+unanimus,3 - složan, jednodušan
+medius,3 - središnji 
+vicinus,3 - susjedni 
+aureus,3 - zlatan 
+cupidus,3 - željan 
+vivus, 3 - živ 
+liber, -era, -erum - slobodan 
