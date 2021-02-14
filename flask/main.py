@@ -27,11 +27,11 @@ def post_data():
 def get_data():
     return send_file(datafile)
 
-@app.route('/analytics_clearLoZiNkA')
-def clear_data():
-    with open(datafile, 'w') as outfile:
-        outfile.write("")
-    return send_file(datafile)
+# @app.route('/analytics_clearLoZiNkA')
+# def clear_data():
+#     with open(datafile, 'w') as outfile:
+#         outfile.write("")
+#     return send_file(datafile)
 
 print(qs)
 app.run(host='0.0.0.0') 

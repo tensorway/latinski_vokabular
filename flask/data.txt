@@ -160,3 +160,8 @@
 1613325897635---podataka---nema---super---8106
 1613325920050---pulcher, -chra, -chrum---lijep---super---7568
 1613325922526---moneo,2.---opominjati, upozoravati---super---10044
+1613327146649---socius, -ii, m.---drug, pratitelj---ok---1234167
+1613327150242---canto,1.---pjevati---super---1237760
+1613327152464---scio,4. / nescio,4.---znati / ne znati---lose---1239982
+1613327158151---(de)voro,1.---proždirati---ok---1245669
+1613327162363---aqua, -ae, f.---voda---super---1249881
