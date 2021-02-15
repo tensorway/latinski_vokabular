@@ -1,0 +1,193 @@
+1613314220355---sto je pod---auto---ok---2300
+1613314276692---amicitia,-ae,f.---prijateljstvo---lose---58637
+1613314404965---sto je pod---auto---ok---11843
+1613314438365---sto je pod---auto---lose---1903
+1613314475627---sto je pod---auto---lose---2970
+1613314504205---sto je pod---auto---ok---2809
+1613314544025---sto je pod---auto---ok---4063
+1613314548876---pius,3---pobožan---super---8914
+1613314566859---domo,1.---nadvladavati, krotiti---lose---26897
+1613314661494---ardeo,2.---gorjeti---ok---4027
+1613314665809---mare,is,n.---more---super---8342
+1613314703219---navis,is,f.---lađa, brod---ok---4854
+1613314706878---caedes,is,f.---pokolj, ubojstvo---super---8513
+1613314711160---colo,3.---štovati, poštivati---ok---12795
+1613314714883---honor,-oris,m.---čast---ok---16518
+1613314842151---timor, -oris,m.---strah---super---8830
+1613314916714---iniuria,-ae,f.---nepravda---super---16205
+1613315114927---defendo,3.---braniti---ok---195787
+1613315118362---doceo,2.---poučavati---super---199222
+1613315122747---liber, -era, -erum---slobodan---ok---203607
+1613315126185---ara,-ae,f.---žrtvenik, oltar---lose---207045
+1613315132862---civis,is,m.---građanin---ok---213722
+1613315350584---cupidus,3---željan---super---3283
+1613315586483---animus,-i,m.---duša---super---3386
+1613315599334---iustus,3---pravedan, pošten---lose---3200
+1613315602963---victor,-oris,m.---pobjednik---ok---6829
+1613315606687---caput,-itis,n.---glava---ok---10553
+1613315609702---iratus,3---bijesan, srdit---ok---13568
+1613315645872---colo,3.---štovati, poštivati---lose---3033
+1613315668361---sacrificium,-i,n.---žrtva---lose---3326
+1613315675389---ara,-ae,f.---žrtvenik, oltar---ok---10354
+1613315690478---ludus,-i,m.---igra---ok---25443
+1613315917919---patientia,-ae,f.---strpljivost---lose---3743
+1613315920199---mater,-tris,f.---majka---lose---6023
+1613315922269---mensa,-ae,f.---stol---lose---8093
+1613315924035---rogo,1.---pitati---lose---9859
+1613315925446---victor,-oris,m.---pobjednik---lose---11270
+1613315926646---munio,4.---utvrditi---lose---12470
+1613315928371---ara,-ae,f.---žrtvenik, oltar---lose---14195
+1613316029868---societas,-atis,f.---savez,društvo---lose---2913
+1613316032708---cupidus,3---željan---ok---5753
+1613316072395---frater, -tris,m.---brat---lose---5464
+1613316274064---miles,-itis,m.---vojnik---ok---2849
+1613316582120---repello,3.---odbiti---lose---10185
+1613316658240---medius,3---središnji---lose---3229
+1613316679497---ardeo,2.---gorjeti---ok---2650
+1613316764709---gero,3.---voditi (rat)---ok---7578
+1613316781903---iratus,3---bijesan, srdit---lose---4367
+1613316804705---miles,-itis,m.---vojnik---lose---11294
+1613316992076---fortitudo,-dinis,f.---hrabrost---lose---2823
+1613317187479---doceo,2.---poučavati---super---4184
+1613317195529---nomen,-minis,n.---ime---super---12234
+1613317336868---aedificium.-i,n.---građevina---super---3272
+1613317341198---sors, sortis,f.---sudbina---super---7602
+1613317358408---origo,-ginis,f.---porijeklo, izvor---lose---24812
+1613317380757---legatus,-i,m.---poslanik---ok---3030
+1613317383691---dens, dentis,m.---zub---ok---5964
+1613317419787---respondeo,2.---odgovoriti---lose---3566
+1613317441804---agricola,-ae,m.---ratar---lose---3361
+1613317465651---eligo,3.---izabrati---lose---3755
+1613317468378---dolor,-oris,m.---bol---super---6482
+1613317501409---amor,-oris,m.---ljubav---lose---2390
+1613317512559---defendo,3.---braniti---lose---2240
+1613317514182---pax, pacis,f.---mir---lose---3863
+1613317557584---libertas,-atis,f.---sloboda---lose---20504
+1613317560426---vulnus,-eris,n.---rana---lose---23346
+1613317563252---ara,-ae,f.---žrtvenik, oltar---lose---26172
+1613317564910---finis,is,m.---granica, kraj---lose---27830
+1613317568902---victor,-oris,m.---pobjednik---super---31822
+1613317588367---artifex,-icis,m.---umjetnik, majstor---super---51287
+1613317590181---mos, moris,m.---običaj---super---53101
+1613317591849---domo,1.---nadvladavati, krotiti---super---54769
+1613317595229---libertas,-atis,f.---sloboda---super---58149
+1613317599853---virtUS,-UTIS,f.---vrlina, hrabrost---super---62773
+1613317601966---protego,3.---štititi---super---64886
+1613317603807---deleo,2.---razoriti---super---66727
+1613317605688---unanimus,3---složan, jednodušan---super---68608
+1613317607614---aureus,3---zlatan---super---70534
+1613317609455---legatus,-i,m.---poslanik---super---72375
+1613317611126---epulae,-arum,f.---gozba---super---74046
+1613317620187---origo,-ginis,f.---porijeklo, izvor---super---83107
+1613317622373---aurum,-i,n.---zlato---super---85293
+1613317624103---cupido,-dinis,f.---želja---super---87023
+1613317625773---libertas,-atis,f.---sloboda---super---88693
+1613317627410---unanimus,3---složan, jednodušan---super---90330
+1613317629071---patientia,-ae,f.---strpljivost---super---91991
+1613317630722---deleo,2.---razoriti---super---93642
+1613317632333---agricola,-ae,m.---ratar---super---95253
+1613317633919---iratus,3---bijesan, srdit---super---96839
+1613317635582---dux, ducis,m.---vođa---super---98502
+1613317729661---bellicosus,3---ratoboran---super---4529
+1613317734531---iniuria,-ae,f.---nepravda---ok---9399
+1613317738009---oraculum,-i,n---proročište, proročanstvo---super---12877
+1613317777214---ambulo,1.---šetati---lose---2604
+1613317779090---capio,3.---uhvatiti, zarobiti, osvojiti---ok---4480
+1613317785661---saluto,1.---pozdravljati---super---11051
+1613317788380---gigno,3.---roditi---super---13770
+1613317791109---consilium, -ii, n.---savjet---super---16499
+1613317793392---maledictum, -i,n.---kletva,psovka---super---18782
+1613317795830---regina, -ae,f.---kraljica---super---21220
+1613317798356---splendidus,3---sjajan---super---23746
+1613317801880---praebeo,2.---pružiti, pokazati---super---27270
+1613317803354---cresco,3.---rasti---super---28744
+1613317804661---amo,1.---voljeti/ zavoljeti---super---30051
+1613317806090---verus, 3---istinski, pravi---super---31480
+1613317807517---tuus,3---tvoj---super---32907
+1613317808884---ora,-ae,f./ ripa,-ae,f.---obala/obala rijeke---super---34274
+1613317810309---concordia, -ae, f.---sloga---super---35699
+1613317811581---capio,3.---uhvatiti, zarobiti, osvojiti---super---36971
+1613317812846---timeo,2.---bojati se---super---38236
+1613317814313---magister, -tri, m.---učitelj---super---39703
+1613317815666---per---po, preko, kroz---super---41056
+1613317817023---mitto,3.---slati---super---42413
+1613317818395---suus,3.---svoj---super---43785
+1613317819731---discedo,3. / decedo,3.---otići, udaljiti se---super---45121
+1613317821083---narro,1.---pripovijedati,pričati---super---46473
+1613317822367---condo,3.---osnovati---super---47757
+1613317823697---altus,3---visok---super---49087
+1613317829863---signum, -i, n.---znak---super---55253
+1613317831403---templum, -i, n.---hram---super---56793
+1613317832984---magister, -tri, m.---učitelj---super---58374
+1613317834329---laudo,1.---hvaliti---super---59719
+1613317836810---victoria, -ae,f.---pobjeda---super---62200
+1613317838926---miser, -era, -erum---jadan, bijedan---super---64316
+1613317840530---dolus, -i,m.---varka---super---65920
+1613317842049---suus,3.---svoj---super---67439
+1613317843620---ora,-ae,f./ ripa,-ae,f.---obala/obala rijeke---super---69010
+1613317846260---regno,1.---kraljevati,vladati---super---71650
+1613317849198---amitto,3.---izgubiti---super---74588
+1613317850946---porta, -ae, f.---vrata---super---76336
+1613317854204---*primus,3---prvi---super---79594
+1613317855886---nutrio,4. / alo,3.---hraniti---super---81276
+1613317857263---firmo,1.---jačati---super---82653
+1613317858588---gigno,3.---roditi---super---83978
+1613317861307---post---poslije, nakon---super---86697
+1613317863369---porta, -ae, f.---vrata---super---88759
+1613317865189---mitto,3.---slati---super---90579
+1613317867133---vinco,3.---pobijediti---super---92523
+1613317868945---punio,4.---kazniti---super---94335
+1613317871252---miseria, -ae,f.---jad,nesreća---super---96642
+1613317873253---miseria, -ae,f.---jad,nesreća---super---98643
+1613317875251---accipio,3.---primiti,prihvatiti---super---100641
+1613317877087---compleo,2.---ispuniti---super---102477
+1613317878951---victoria, -ae,f.---pobjeda---super---104341
+1613317881598---rapio,3.---ugrabiti, oteti---super---106988
+1613317883402---nauta, -ae,m.---mornar---super---108792
+1613317885709---amicus, -i,m.---prijatelj---super---111099
+1613317888613---consilium, -ii, n.---savjet---super---114003
+1613318423835---per---po, preko, kroz---ok---14567
+1613318765640---djelo, rad---opus,-eris,n.---super---5087
+1613318768618---pjesma---cantio,-onis,f.---super---8065
+1613318771461---igra---ludus,-i,m.---ok---10908
+1613318774166---osnivač---conditor,-oris,m.---super---13613
+1613325556994---laudo,1.---hvaliti---ok---5724
+1613325559251---aqua, -ae, f.---voda---lose---7981
+1613325560555---discipula, -ae,f.---učenica---lose---9285
+1613325563537---miseria, -ae,f.---jad,nesreća---super---12267
+1613325566314---sedeo,2.---sjediti---super---15044
+1613325568360---narro,1.---pripovijedati,pričati---super---17090
+1613325897635---podataka---nema---super---8106
+1613325920050---pulcher, -chra, -chrum---lijep---super---7568
+1613325922526---moneo,2.---opominjati, upozoravati---super---10044
+1613327146649---socius, -ii, m.---drug, pratitelj---ok---1234167
+1613327150242---canto,1.---pjevati---super---1237760
+1613327152464---scio,4. / nescio,4.---znati / ne znati---lose---1239982
+1613327158151---(de)voro,1.---proždirati---ok---1245669
+1613327162363---aqua, -ae, f.---voda---super---1249881
+1613350061090---složan, jednodušan---unanimus,3---super---5983
+1613350063872---dio, strana---pars, partis,f.---lose---8765
+1613350108248---pietas,-atis,f.---pobožnost---ok---7126
+1613350110446---libero,1.---osloboditi---super---9324
+1613350120303---corpus,-oris,n.---tijelo---ok---19181
+1613350668370---magnus,3---velik---super---9667
+1613351007223---živjeti---vivo,3.---super---867092
+1613351011083---ratovati---bello,1.---super---870952
+1613351015404---rana---vulnus,-eris,n.---lose---875273
+1613351134736---naš---noster, -tra, -trum---super---4019
+1613351154112---završiti---finio,4.---super---6452
+1613351159422---stric---patruus, -i, m.---super---11762
+1613351167788---kraljevati,vladati---regno,1.---super---20128
+1613351171320---željeti---cupio,3.---super---23660
+1613351269688---via, -ae,f.---put, staza, cesta---super---7744
+1613351273996---bestia, -ae,f.---zvijer---super---12052
+1613351277449---suus,3.---svoj---lose---15505
+1613351286348---laetus,3---veseo---lose---24404
+1613351288164---aqua, -ae, f.---voda---super---26220
+1613351293468---fluvius, -ii,m.---rijeka---super---31524
+1613351297166---avus, -i, m.---djed---lose---35222
+1613351300011---canto,1.---pjevati---super---38067
+1613378379268---canto,1.---pjevati---super---3529
+1613380199792---naprava, stroj---machina, -ae,f.---lose---25418
+1613380203631---reći, govoriti, kazati---dico,3.---lose---29257
+1613380209743---opominjati, upozoravati---moneo,2.---super---35369
