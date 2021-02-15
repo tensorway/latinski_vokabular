@@ -165,3 +165,6 @@
 1613327152464---scio,4. / nescio,4.---znati / ne znati---lose---1239982
 1613327158151---(de)voro,1.---proždirati---ok---1245669
 1613327162363---aqua, -ae, f.---voda---super---1249881
+1613334832347---hortus, -i, m.---vrt---super---8919865
+1613348389426---nauta, -ae,m.---mornar---super---5338
+1613348392219---puto,1. / cogito,1.---misliti, smatrati---super---8131

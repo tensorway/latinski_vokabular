@@ -120,23 +120,22 @@ export default class QuestionView extends React.Component {
     Question(question) {
         return (
             <Grid container spacing={20} direction='column' alignItems='center' >
+                <Grid container item xs={12}>
+                    <LinearProgress style={{ width: '100%' }} variant="determinate" value={this.nzero/this.state.vocab_list.length*100}/>
+                    <LinearProgress style={{ width: '100%' }} variant="determinate" color='secondary' value={100-this.nzero/this.state.vocab_list.length*100} />
+                </Grid>
                 <Grid container spacing={4} direction='column' alignItems='center' style={{ padding: 70 }}>
                     <Grid item>
-                        <Typography variant='h3'>{question}</Typography>
+                        <Typography variant='h4'>{question}</Typography>
                     </Grid>
                     <Grid item>
-                        <Typography variant='h3'>____</Typography>
+                        <Typography variant='h4'>____</Typography>
                     </Grid>
                 </Grid>
                 <Grid container spacing={4} direction='column' alignItems='center' style={{ height: '60vh' }}>
                     <Button color="primary" variant="contained" size='large' onClick={() => this.turn_card_handler()}>
                         Prikazi rjesenje
                 </Button>
-                </Grid>
-                <Grid container item xs={12}>
-                    {/* <Typography variant='h5'>progress</Typography> */}
-                    <LinearProgress style={{ width: '100%' }} variant="determinate" value={this.nzero/this.state.vocab_list.length*100}/>
-                    <LinearProgress style={{ width: '100%' }} variant="determinate" color='secondary' value={100-this.nzero/this.state.vocab_list.length*100} />
                 </Grid>
             </Grid>
         )
@@ -146,12 +145,17 @@ export default class QuestionView extends React.Component {
         return (
             <Card>
                 <Grid container spacing={20} direction='column' alignItems='center'>
+                    <Grid container item xs={12}>
+                        {/* <Typography variant='h5'>progress</Typography> */}
+                        <LinearProgress style={{ width: '100%' }} variant="determinate" value={this.nzero/this.state.vocab_list.length*100}/>
+                        <LinearProgress style={{ width: '100%' }} variant="determinate" color='secondary' value={100-this.nzero/this.state.vocab_list.length*100} />
+                    </Grid>
                     <Grid container spacing={4} direction='column' alignItems='center' style={{ padding: 70 }}>
                         <Grid item>
-                            <Typography variant='h3'>{question}</Typography>
+                            <Typography variant='h4'>{question}</Typography>
                         </Grid>
                         <Grid item>
-                            <Typography variant='h3'>{answer}</Typography>
+                            <Typography variant='h4'>{answer}</Typography>
                         </Grid>
                     </Grid>
                     <Grid container spacing={4} direction='column' alignItems='center' style={{ height: '60vh' }}>
@@ -164,11 +168,6 @@ export default class QuestionView extends React.Component {
                         <Grid item>
                             <Button color="primary" variant="contained" size='large' onClick={() => this.super_handler(question, answer)}>nauceno</Button>
                         </Grid>
-                    </Grid>
-                    <Grid container item xs={12}>
-                        {/* <Typography variant='h5'>progress</Typography> */}
-                        <LinearProgress style={{ width: '100%' }} variant="determinate" value={this.nzero/this.state.vocab_list.length*100}/>
-                        <LinearProgress style={{ width: '100%' }} variant="determinate" color='secondary' value={100-this.nzero/this.state.vocab_list.length*100} />
                     </Grid>
                 </Grid>
             </Card>
