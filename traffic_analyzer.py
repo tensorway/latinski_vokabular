@@ -28,10 +28,10 @@ import matplotlib.pyplot as plt
 x = [item['date'] for item in datalist]
 y = list(range(len(x)))
 
-plt.subplot(3, 1, 1)
+plt.subplot(1, 3, 1)
 plt.plot(x, y)
 plt.gcf().autofmt_xdate()
 
-plt.subplot(3, 1, 2)
+plt.subplot(1, 3, 2)
 plt.bar(list(range(len(labelcnt))), labelcnt, tick_label=labels)
 plt.show()
